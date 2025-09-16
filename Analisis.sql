@@ -158,9 +158,6 @@ GROUP BY c.id, a.id
 ORDER BY total_compras DESC;
 
 
-
-
-
 -- Identifica los segmentos (edad, género, ubicación) con más compras
 
 SELECT 
